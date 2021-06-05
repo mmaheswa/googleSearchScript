@@ -9,7 +9,7 @@ Install the dependencies and run the script.
 
 # Install googlesearch
 ```sh
-pip install googlesearch
+pip install googlesearch-python
 ```
 # Install pandas
 ```sh
